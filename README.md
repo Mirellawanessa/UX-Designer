@@ -61,20 +61,21 @@ Confira meus certificados: [meu perfil DIO](https://web.dio.me/users/mirellawane
 ## 👩‍💻 Designer
 
 <p>
-    <img 
-      align="left" 
-      width="80" 
-      src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
-    />
-    <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/_mirella.page/?next=%2F">Instagram</a>
-    &nbsp;|&nbsp;</p>
+  <img 
+    align="left" 
+    width="80" 
+    src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
+  />
+  <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
+  <a href="https://www.instagram.com/myfilearchive">Instagram</a>
+  &nbsp;|&nbsp;</p>
 </p>
 
 ---
 
-⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)  
+⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)
+
 Sinta-se à vontade para deixar uma ⭐ se você curtir o conteúdo!
